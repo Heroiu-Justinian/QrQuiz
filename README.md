@@ -5,7 +5,7 @@ This is a simple game written in python in which you can solve a Qr code that yo
 Using it is simple:
 
 ```console
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 $ python game.py some_data string 
 ```
 Example:

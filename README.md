@@ -1,10 +1,11 @@
 # QrQuiz
 This is a simple game written in python in which you can solve a Qr code that you can then scan.
 
-#Usage
+# Usage
+Using it is simple:
 
-The usage is simple:
 ```console
+$ pip install requirements.txt
 $ python game.py some_data string 
 ```
 Example:

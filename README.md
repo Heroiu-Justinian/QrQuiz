@@ -6,7 +6,7 @@ Using it is simple:
 
 ```console
 $ pip install -r requirements.txt
-$ python game.py some_data string 
+$ python game.py some_data_string
 ```
 Example:
 ```console
